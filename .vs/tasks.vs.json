@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-dotnet-desktop-vb.net",
+      "appliesTo": ".github/workflows/dotnet-desktop-vb.net.yml",
+      "type": "launch"
+    }
+  ]
+}
