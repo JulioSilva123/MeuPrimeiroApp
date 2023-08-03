@@ -1,4 +1,4 @@
-name: VB.Net Build
+name: .NET Core Desktop  VB.Net
 
 on:
   push:
