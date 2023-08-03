@@ -1,0 +1,8 @@
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\ConsoleApp48\bin\Debug\ConsoleApp48.exe.config
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\ConsoleApp48\bin\Debug\ConsoleApp48.exe
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\ConsoleApp48\bin\Debug\ConsoleApp48.pdb
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\ConsoleApp48\obj\Debug\ConsoleApp48.csproj.AssemblyReference.cache
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\ConsoleApp48\obj\Debug\ConsoleApp48.csproj.SuggestedBindingRedirects.cache
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\ConsoleApp48\obj\Debug\ConsoleApp48.csproj.CoreCompileInputs.cache
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\ConsoleApp48\obj\Debug\ConsoleApp48.exe
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\ConsoleApp48\obj\Debug\ConsoleApp48.pdb
