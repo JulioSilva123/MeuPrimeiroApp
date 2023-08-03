@@ -1,0 +1,12 @@
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleApp48\bin\Debug\ConsoleApp48.exe.config
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleApp48\bin\Debug\ConsoleApp48.exe
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleApp48\bin\Debug\ConsoleApp48.pdb
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleApp48\bin\Debug\ConsoleApp48.xml
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleApp48\obj\Debug\ConsoleApp48.vbproj.AssemblyReference.cache
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleApp48\obj\Debug\ConsoleApp48.vbproj.SuggestedBindingRedirects.cache
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleApp48\obj\Debug\ConsoleApp48.Resources.resources
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleApp48\obj\Debug\ConsoleApp48.vbproj.GenerateResource.cache
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleApp48\obj\Debug\ConsoleApp48.vbproj.CoreCompileInputs.cache
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleApp48\obj\Debug\ConsoleApp48.exe
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleApp48\obj\Debug\ConsoleApp48.xml
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleApp48\obj\Debug\ConsoleApp48.pdb

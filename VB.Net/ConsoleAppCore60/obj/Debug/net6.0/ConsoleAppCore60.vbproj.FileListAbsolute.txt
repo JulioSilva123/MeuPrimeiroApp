@@ -1,0 +1,15 @@
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleAppCore60\bin\Debug\net6.0\ConsoleAppCore60.exe
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleAppCore60\bin\Debug\net6.0\ConsoleAppCore60.deps.json
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleAppCore60\bin\Debug\net6.0\ConsoleAppCore60.runtimeconfig.json
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleAppCore60\bin\Debug\net6.0\ConsoleAppCore60.dll
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleAppCore60\bin\Debug\net6.0\ConsoleAppCore60.pdb
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleAppCore60\obj\Debug\net6.0\ConsoleAppCore60.vbproj.AssemblyReference.cache
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleAppCore60\obj\Debug\net6.0\ConsoleAppCore60.GeneratedMSBuildEditorConfig.editorconfig
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleAppCore60\obj\Debug\net6.0\ConsoleAppCore60.AssemblyInfoInputs.cache
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleAppCore60\obj\Debug\net6.0\ConsoleAppCore60.AssemblyInfo.vb
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleAppCore60\obj\Debug\net6.0\ConsoleAppCore60.vbproj.CoreCompileInputs.cache
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleAppCore60\obj\Debug\net6.0\ConsoleAppCore60.dll
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleAppCore60\obj\Debug\net6.0\refint\ConsoleAppCore60.dll
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleAppCore60\obj\Debug\net6.0\ConsoleAppCore60.pdb
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleAppCore60\obj\Debug\net6.0\ConsoleAppCore60.genruntimeconfig.cache
+J:\work\git\JulioSilva123\MeuPrimeiroApp\VB.Net\ConsoleAppCore60\obj\Debug\net6.0\ref\ConsoleAppCore60.dll
