@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RuntimeFrameworkVersion>6.0.4</RuntimeFrameworkVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <EnforceCodeStyleInBuild>True</EnforceCodeStyleInBuild>
+    <AnalysisLevel>6.0-all</AnalysisLevel>
+    <IncludeSymbols>False</IncludeSymbols>
+    <Nullable>enable</Nullable>
+    <Title>Coleção Hello World</Title>
+    <Description>Hello World C# .Core 6.0</Description>
+    <Copyright>Julio Silva</Copyright>
+    <Company>Julio Silva</Company>
+    <PackageProjectUrl>https://github.com/JulioSilva123/MeuPrimeiroApp</PackageProjectUrl>
+    <Authors>Julio Silva</Authors>
+  </PropertyGroup>
+
+</Project>
+
+
+
+
+
+
+
+
+

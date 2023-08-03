@@ -1,0 +1,11 @@
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\WinApp48\bin\Debug\WinApp48.exe.config
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\WinApp48\bin\Debug\WinApp48.exe
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\WinApp48\bin\Debug\WinApp48.pdb
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\WinApp48\obj\Debug\WinApp48.csproj.AssemblyReference.cache
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\WinApp48\obj\Debug\WinApp48.csproj.SuggestedBindingRedirects.cache
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\WinApp48\obj\Debug\WinApp48.Form1.resources
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\WinApp48\obj\Debug\WinApp48.Properties.Resources.resources
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\WinApp48\obj\Debug\WinApp48.csproj.GenerateResource.cache
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\WinApp48\obj\Debug\WinApp48.csproj.CoreCompileInputs.cache
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\WinApp48\obj\Debug\WinApp48.exe
+J:\work\git\JulioSilva123\MeuPrimeiroApp\CSharp\WinApp48\obj\Debug\WinApp48.pdb
