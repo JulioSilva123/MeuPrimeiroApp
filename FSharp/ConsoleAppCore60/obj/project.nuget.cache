@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VV8/Yqv22gQEgZjqHUiuHODk8/3ZxewYYhml3CMURtc/h+laYHiugd9ktUbmXo51CyBw8+NbFQzI2u8JXrjRSw==",
+  "success": true,
+  "projectFilePath": "J:\\work\\git\\JulioSilva123\\MeuPrimeiroApp\\FSharp\\ConsoleAppCore60\\ConsoleAppCore60.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julio\\.nuget\\packages\\fsharp.core\\7.0.300\\fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
