@@ -4,3 +4,4 @@
 
 /packages
 /.github/workflows/dotnet-desktop.yml
+/actions_temp.txt
