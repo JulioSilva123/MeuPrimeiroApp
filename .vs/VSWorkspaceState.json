@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\.github\\workflows"
   ],
-  "SelectedNode": "\\J:\\work\\git\\JulioSilva123\\MeuPrimeiroApp",
+  "SelectedNode": "\\.github\\workflows\\vb-net-dotnet-desktop.yml",
   "PreviewInSolutionExplorer": false
 }
