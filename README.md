@@ -1,8 +1,11 @@
 # MeuPrimeiroApp
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
 
-ColeÁ„o do famoso `Hello World`  em v·rias linguagens
+Cole√ß√£o do famoso `Hello World`  em v√°rias linguagens
 
 >Feito com Visual Studio Ultimate 2022
 
@@ -38,3 +41,25 @@ ColeÁ„o do famoso `Hello World`  em v·rias linguagens
 
 
 
+
+## Contributors ‚ú®
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://curriculo.azurewebsites.net/"><img src="https://avatars.githubusercontent.com/u/86787811?v=4?s=100" width="100px;" alt="Julio Silva ‚à¥"/><br /><sub><b>Julio Silva ‚à¥</b></sub></a><br /><a href="#translation-JulioSilva123" title="Translation">üåç</a> <a href="https://github.com/JulioSilva123/MeuPrimeiroApp/commits?author=JulioSilva123" title="Code">üíª</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
