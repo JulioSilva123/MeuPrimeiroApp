@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "JulioSilva123",
+      "name": "Julio Silva ∴",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86787811?v=4",
+      "profile": "https://curriculo.azurewebsites.net/",
+      "contributions": [
+        "translation"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "MeuPrimeiroApp",
+  "projectOwner": "JulioSilva123"
+}
